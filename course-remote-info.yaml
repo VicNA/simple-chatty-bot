@@ -3,7 +3,7 @@ hyperskill_project:
   ide_files: https://stepik.org/media/attachments/lesson/405270/additional_files.json
   is_template_based: true
   use_ide: true
-update_date: Thu, 13 Oct 2022 18:36:13 UTC
+update_date: "Sun, 04 Jun 2023 04:38:38 UTC"
 stages:
 - id: 668
   step: 10770
@@ -45,7 +45,7 @@ topics:
     theory_id: 4389
   - title: Invoking functions
     theory_id: 4575
-  - title: Standard input
+  - title: Standard input with Java Scanner
     theory_id: 4445
   2:
   - title: Binary numbers
